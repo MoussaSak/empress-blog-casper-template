@@ -1,0 +1,5 @@
+---
+name: News
+image:
+imageMeta:
+---

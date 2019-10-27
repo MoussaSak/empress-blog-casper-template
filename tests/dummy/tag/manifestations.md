@@ -1,0 +1,5 @@
+---
+name: Manifestations
+image:
+imageMeta:
+---

@@ -23,18 +23,39 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: "empress-blog casper template",
-      description: "The Casper theme for empress-blog",
+      title: 'Post Graduation',
+      description: 'Tout sur la Post Graduation en Algérie',
       coverImage: '/images/blog-cover.jpg',
+      facebook: "postgraduationalgerie",
+      twitter: "GraduationPost",
 
       navigation: [{
         label: 'Home',
         route: 'index'
-      }, {
-        label: 'Built by Chris Manson',
+      },{
+        label: 'Annonce',
+        link: '/tag/annonce'
+      },{
+        label: 'Manifestations',
+        link: '/tag/manifestations'
+      },{
+        label: 'Bourse',
+        link: '/tag/bourse'
+      },{
+        label: 'News',
+        link: '/tag/news'
+      },{
+        label: 'Prix',
+        link: '/tag/prix'
+      },{
+        label: 'Divers',
+        link: '/tag/divers'
+      },{
+        label: 'À propos',
         route: 'page',
-        id: 'chris-manson'
-      }]
+        id: 'about'
+      }
+    ]
     }
   };
 
@@ -60,6 +81,9 @@ module.exports = function(environment) {
 
   if (environment === 'production') {
     // here you can enable a production-specific feature
+    ENV.googleAnalytics = {
+    webPropertyId: 'UA-139856550-1'
+    };
   }
 
   return ENV;

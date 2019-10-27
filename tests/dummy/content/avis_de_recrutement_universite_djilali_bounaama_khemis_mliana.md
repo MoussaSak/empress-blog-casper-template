@@ -1,0 +1,24 @@
+---
+title: Avis de recrutement Université Djilali Bounaama Khemis Mliana
+image: /images/Khemis-miliana.jpg
+
+imageMeta:
+  attribution: By admin
+  attributionLink:
+featured: true
+authors:
+  - admin
+date: Wed Jul 17 2019 15:20:59 GMT+0100 (IST)
+tags:
+  - annonce
+---
+
+Avis de recrutement Université Djilali Bounaama Khemis Mliana au titre de l'année budgétaire 2019, pour le grade de maître assistant Classe B:
+
+Date de l'annonce: **15 juillet 2019**.
+
+![Avis de recrutement Université Djilali Bounaama Khemis Mliana 2019 ](/images/khmis_meliana_2019_1.jpg)
+![Avis de recrutement Université Djilali Bounaama Khemis Mliana 2019 ](/images/khmis_meliana_2019_2.jpg)
+
+
+Pour consulter tous les offres, suivez le lien: [tous les avis de recrutement](/tous_les_avis_de_recrutement_annee_budgetaire_2019/)
