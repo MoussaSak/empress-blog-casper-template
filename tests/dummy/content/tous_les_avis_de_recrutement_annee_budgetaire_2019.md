@@ -14,7 +14,7 @@ tags:
   - news
 ---
 
-Mise à jour le: **24 Octobre 2019**
+Mise à jour le: **01 Novembre 2019**
 
 Voici la liste des avis de recrutement au titre de l'année budgétaire 2019 pour l'accès au grade de maître assistant classe B, annoncés jusqu'à maintenant par les différents universités et écoles à travers le pays:
 
@@ -83,6 +83,7 @@ Voici la liste des avis de recrutement au titre de l'année budgétaire 2019 pou
 + [Université de Tizi Ouzou](/avis-de-recrutement-maitre-assistant-classe-b-universite-tizi-ouzou-2019/)
 + [Université de Guelma](/avis-de-recrutement-universite-de-guelma-annee-2019/)*
 + [Centre de Recherche Scientifique et Technique pour le Développement de la Langue Arabe (CRSTDLA)](/avis-de-recrutement-centre-de-recherche-scientifique-et-technique-pour-le-developpement-de-la-langue-arabe-crstdla-annee-2019/)
-+ [ École supérieure des sciences de l'aliment et des industries agroalimentaires](/avis-de-recrutement-ecole-superieure-des-sciences-de-l-aliment-et-des-industries-agroalimentaires/)
++ [École supérieure des sciences de l'aliment et des industries agroalimentaires](/avis-de-recrutement-ecole-superieure-des-sciences-de-l-aliment-et-des-industries-agroalimentaires/)
++ [Académie militaire de Cherchell](/avis-de-recrutement-academie-militaire-cherchell/)
 
 Vous pouvez aussi consulter les critères de sélection via ce lien: [Les critères de selection au concours sur titre pour accès au grade de maître assistant classe B](/Les_criteres_de_selection_au_concours_sur_titre_pour_acces_au_grade_de_maître_assistant_classe_B/)
