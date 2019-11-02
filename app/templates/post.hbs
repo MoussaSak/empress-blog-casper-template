@@ -20,14 +20,6 @@ into the {body} of the default.hbs template --}}
         <article class="post-full {{post_class}} {{unless post.image 'no-image'}}">
 
             <header class="post-full-header">
-              <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-              <!-- horizontal_display_ad -->
-              <ins class="adsbygoogle"
-              style="display:inline-block;min-width:300px;max-width:970px;width:100%;height:90px"
-              data-ad-client="ca-pub-8975928458557512"
-              data-ad-slot="6624229893"></ins>
-              <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-
                 <section class="post-full-meta">
                     <time class="post-full-meta-date" datetime="{{date post format="YYYY-MM-DD"}}">{{date post format="D MMMM YYYY"}}</time>
                     {{#if post.primaryTag}}
@@ -35,6 +27,13 @@ into the {body} of the default.hbs template --}}
                     {{/if}}
                 </section>
                 <h1 class="post-full-title">{{post.title}}</h1>
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- horizontal_display_ad -->
+                <ins class="adsbygoogle"
+                style="display:inline-block;min-width:300px;max-width:970px;width:100%;height:90px"
+                data-ad-client="ca-pub-8975928458557512"
+                data-ad-slot="6624229893"></ins>
+                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
             </header>
 
             {{#if post.image}}
