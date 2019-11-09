@@ -1,7 +1,7 @@
 ---
 name: Admin
 id: admin
-image: /images/blog_icon.jpg
+image: /images/blog-icon.png
 cover:
 website:
 twitter:

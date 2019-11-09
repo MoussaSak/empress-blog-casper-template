@@ -1,6 +1,6 @@
 ---
 title: Programme de mobilité vers l'Université de Cadix dans le cadre du Programme Européen Erasmus+ KA107.
-image: /images/cadex-erasmus.jpeg
+image: /images/universite-cadex.jpg
 
 imageMeta:
   attribution: By admin
