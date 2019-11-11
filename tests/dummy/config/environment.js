@@ -55,7 +55,8 @@ module.exports = function(environment) {
         route: 'page',
         id: 'about'
       }
-    ]
+    ],
+    host: 'https://post-graduation.com',
     }
   };
 
@@ -84,6 +85,8 @@ module.exports = function(environment) {
     ENV.googleAnalytics = {
     webPropertyId: 'UA-139856550-1'
     };
+    // RSS feed
+    ENV.blog.host = 'https://post-graduation.com';
   }
 
   return ENV;

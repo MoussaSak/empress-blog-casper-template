@@ -25,12 +25,12 @@ La bourse du programme Erasmus+ Mobilité à des fins d’étude ne couvre pas t
 
 + Contribution de l’Union Européenne (soutien individuel). Le montant est fixé selon le pays d’accueil. En Espagne, la contribution mensuelle s’élève à 850 euros par mois. La période pouvant faire l’objet d’un financement oscille entre 3 et 5 mois (90-150 jours).
 + Contribution supplémentaire pour couvrir les dépenses issues du voyage (aide pour les frais de voyage). Cette contribution est calculée en fonction des bandes kilométriques suivantes :
-+    100 – 499 km. : 180 euros
-+    500 – 1999 km. : 275 euros
-+    2000 – 2999 km. : 360 euros
-+    3000 – 3999 km. : 530 euros
-+    4000 – 7999 km. : 820 euros
-+    8000 – 19 999 km. : 1500 euros
+      + 100 – 499 km. : 180 euros
+      + 500 – 1999 km. : 275 euros
+      + 2000 – 2999 km. : 360 euros
+      + 3000 – 3999 km. : 530 euros
+      + 4000 – 7999 km. : 820 euros
+      + 8000 – 19 999 km. : 1500 euros
 
 ##PROCÉDURE DE CANDIDATURE :
 Les candidats à l'obtention de la bourse devront présenter les documents auprès du Bureau des Relations Internationales de l’Université d’Origine. Le Bureau des Relations Internationales de l'Université d'Origine peut établir ça liste des documents.
