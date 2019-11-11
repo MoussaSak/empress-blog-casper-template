@@ -1,0 +1,23 @@
+---
+title: Tous les avis de recrutement maitre assistant classe B au titre de l'année budgétaire 2019 -Deuxième session-
+image: /images/recrutement-3.jpg
+
+imageMeta:
+  attribution: By admin
+  attributionLink:
+featured: true
+authors:
+  - admin
+date: Tue Nov 12 2019 00:00:59 GMT+0100 (IST)
+tags:
+  - annonce
+  - news
+---
+Mise à jour le: **11 Novembre 2019**
+
+Voici la liste des avis de recrutement **Deuxième Session** au titre de l'année budgétaire 2019 pour l'accès au grade de maître assistant classe B, annoncés jusqu'à maintenant par les différents universités et écoles à travers le pays:
+
++ [Centre de Recherche Scientifique et Technique en Analyses Physico-Chimiques (CRAPC)](/avis-de-recrutement-centre-de-recherche-scientifique-et-technique-en-analyses-physico-chimiques-crapc/)
++ [Université de Abderrahmane Mira Bejaïa](/avis-de-recrutement-universite-Abderrahmane-mira-bejaia-deuxieme-session/)
+
+Vous pouvez aussi consulter les critères de sélection via ce lien: [Les critères de selection au concours sur titre pour accès au grade de maître assistant classe B](/Les_criteres_de_selection_au_concours_sur_titre_pour_acces_au_grade_de_maître_assistant_classe_B/)
