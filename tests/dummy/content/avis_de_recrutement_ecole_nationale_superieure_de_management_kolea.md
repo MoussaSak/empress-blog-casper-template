@@ -1,5 +1,5 @@
 ---
-title: Avis de recrutement Ecole nationale Supérieure de Management Koléa
+title: Avis de recrutement Ecole nationale Supérieur de Management Koléa
 image: /images/ecole_nationale_superieure_management_kolea_alger.jpg
 
 imageMeta:
