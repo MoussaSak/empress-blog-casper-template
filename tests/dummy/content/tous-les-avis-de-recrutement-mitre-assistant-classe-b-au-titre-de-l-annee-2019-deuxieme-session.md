@@ -20,5 +20,6 @@ Voici la liste des avis de recrutement **Deuxième Session** au titre de l'anné
 + [Centre de Recherche Scientifique et Technique en Analyses Physico-Chimiques (CRAPC)](/avis-de-recrutement-centre-de-recherche-scientifique-et-technique-en-analyses-physico-chimiques-crapc/)
 + [Université de Abderrahmane Mira Bejaïa](/avis-de-recrutement-universite-Abderrahmane-mira-bejaia-deuxieme-session/)
 + [Ecole nationale Supérieure de Management](/avis-de-recrutement-ecole-nationale-demanagement-kolea-deuxieme-session/)
++ [Université de Ghardaïa](/avis-de-recrutement-universite-de-ghardaia-annee-2019-deuxieme-session/)
 
 Vous pouvez aussi consulter les critères de sélection via ce lien: [Les critères de selection au concours sur titre pour accès au grade de maître assistant classe B](/Les_criteres_de_selection_au_concours_sur_titre_pour_acces_au_grade_de_maître_assistant_classe_B/)

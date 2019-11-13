@@ -8,7 +8,7 @@ imageMeta:
 featured: true
 authors:
   - admin
-date: Tue nov 12 2019 00:10:59 GMT+0100 (IST)
+date: Tue Nov 12 2019 00:10:59 GMT+0100 (IST)
 tags:
   - annonce
 ---

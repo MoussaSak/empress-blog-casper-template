@@ -1,5 +1,5 @@
 ---
-title: Ministère de l'Enseignemnt Supérieur annule tous les stages de courte durée vers le Maroc et la Tunisie.
+title: Ministère de l'Enseignement Supérieur annule tous les stages de courte durée vers le Maroc et la Tunisie.
 image: /images/mesrs.jpg
 
 imageMeta:
