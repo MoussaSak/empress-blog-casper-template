@@ -8,7 +8,7 @@ imageMeta:
 featured: true
 authors:
   - admin
-date: Thu Nov 15 2019 00:20:00 GMT+0100 (IST)
+date: Fri Nov 15 2019 00:20:00 GMT+0100 (IST)
 tags:
   - divers
 ---
