@@ -1,5 +1,5 @@
 ---
-title: Avis de recrutement Centre Universitraie de Illizi -deuxième session-
+title: Avis de recrutement Centre Universitraie d'Illizi -deuxième session-
 image: /images/centre-univ-illizi.jpeg
 
 imageMeta:
@@ -12,11 +12,11 @@ date: Tue Nov 19 2019 21:20:59 GMT+0100 (IST)
 tags:
   - annonce
 ---
-Avis de recrutement centre universitaire de Illizi -deuxième session- au titre de l'année budgétaire 2019, pour le grade de maître assistant Classe B:
+Avis de recrutement centre universitaire d'Illizi -deuxième session- au titre de l'année budgétaire 2019, pour le grade de maître assistant Classe B:
 
 Date de l'annonce: **19 Novembre 2019**.
 
-![Avis de recrutement centre universitaire de Illizi -deuxième session- 2019](/images/centre-univ-illizi-deuxieme-session.jpg)
+![Avis de recrutement centre universitaire d'Illizi -deuxième session- 2019](/images/centre-univ-illizi-deuxieme-session.jpg)
 
 ![Avis de recrutement centre universitaire de Illizi -deuxième session- 2019](/images/centre-univ-illizi-deuxieme-session-2.jpg)
 
