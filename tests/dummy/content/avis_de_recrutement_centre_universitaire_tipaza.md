@@ -36,3 +36,5 @@ Date de l'annonce: **02 Juillet 2019**.
 ![Echéancier et épreuves du concours du doctorat LMD 2019-2020 Centre Universitaire de Tipaza](/images/epreuve-doctorat-lmd-cu-tipaza-6.jpg)
 
 Pour consulter tous les offres, suivez le lien: [tous les avis de recrutement](/tous_les_avis_de_recrutement_annee_budgetaire_2019/)
+
+Pour consulter tous les offres de la deuxième session (à partir de Novembre 2019), suivez le lien: [tous les avis de recrutement deuxième session](/tous-les-avis-de-recrutement-mitre-assistant-classe-b-au-titre-de-l-annee-2019-deuxieme-session/)

@@ -87,6 +87,6 @@ Voici la liste des avis de recrutement au titre de l'année budgétaire 2019 pou
 + [Académie militaire de Cherchell](/avis-de-recrutement-academie-militaire-cherchell/)
 
 
-Pour consulter tous les offres de deuxième session (à partir de Novembre 2019), suivez le lien: [tous les avis de recrutement deuxième session](/tous-les-avis-de-recrutement-mitre-assistant-classe-b-au-titre-de-l-annee-2019-deuxieme-session/)
+Pour consulter tous les offres de la deuxième session (à partir de Novembre 2019), suivez le lien: [tous les avis de recrutement deuxième session](/tous-les-avis-de-recrutement-mitre-assistant-classe-b-au-titre-de-l-annee-2019-deuxieme-session/)
 
 Vous pouvez aussi consulter les critères de sélection via ce lien: [Les critères de selection au concours sur titre pour accès au grade de maître assistant classe B](/Les_criteres_de_selection_au_concours_sur_titre_pour_acces_au_grade_de_maître_assistant_classe_B/)

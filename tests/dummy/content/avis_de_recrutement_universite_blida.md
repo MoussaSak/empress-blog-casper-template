@@ -20,3 +20,8 @@ Date de l'annonce: **25 Avril 2019**.
 ![Image description](/images/Avis_de_recrutement_universite_blida_1.jpg)
 ![Image description](/images/Avis_de_recrutement_universite_blida_2.jpg)
 ![Image description](/images/Avis_de_recrutement_universite_blida_3.jpg)
+
+
+Pour consulter tous les offres de la première session, suivez le lien: [tous les avis de recrutement](/tous_les_avis_de_recrutement_annee_budgetaire_2019/)
+
+Pour consulter tous les offres de la deuxième session (à partir de Novembre 2019), suivez le lien: [tous les avis de recrutement deuxième session](/tous-les-avis-de-recrutement-mitre-assistant-classe-b-au-titre-de-l-annee-2019-deuxieme-session/)
