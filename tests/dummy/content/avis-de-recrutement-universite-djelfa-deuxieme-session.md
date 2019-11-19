@@ -8,7 +8,7 @@ imageMeta:
 featured: true
 authors:
   - admin
-date: Tue Nov 19 2019 15:10:59 GMT+0100 (IST)
+date: Tue Nov 19 2019 15:20:59 GMT+0100 (IST)
 tags:
   - annonce
 ---
@@ -16,9 +16,9 @@ Avis de recrutement Université de Université de Djelfa -deuxième session- au 
 
 Date de l'annonce: **18 Novembre 2019**.
 
-![Avis de recrutement Université de Djelfa -deuxième session- 2019](/images/avis_de_recrutement_centre_universite_djelfa.jpeg)
+![Avis de recrutement Université de Djelfa -deuxième session- 2019](/images/avis-de-recr-univ-djelfa-2-session.jpg)
 
-![Avis de recrutement Université de Djelfa -deuxième session- 2019](/images/avis_de_recrutement_centre_universite_djelfa_2.jpg)
+![Avis de recrutement Université de Djelfa -deuxième session- 2019](/images/avis-de-recr-univ-djelfa-2-session-2.jpg)
 
 
 Pour consulter tous les offres de deuxième session (à partir de Novembre 2019), suivez le lien: [tous les avis de recrutement deuxième session](/tous-les-avis-de-recrutement-mitre-assistant-classe-b-au-titre-de-l-annee-2019-deuxieme-session/)
