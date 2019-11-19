@@ -18,7 +18,7 @@ Date de l'annonce: **19 Novembre 2019**.
 
 ![Avis de recrutement centre universitaire de Illizi -deuxième session- 2019](/images/centre-univ-illizi-deuxieme-session.jpg)
 
-![Avis de recrutement centre universitaire de Illizi -deuxième session- 2019](/images/centre-univ-illizi-deuxieme-session2.jpg)
+![Avis de recrutement centre universitaire de Illizi -deuxième session- 2019](/images/centre-univ-illizi-deuxieme-session-2.jpg)
 
 
 Pour consulter tous les offres de deuxième session (à partir de Novembre 2019), suivez le lien: [tous les avis de recrutement deuxième session](/tous-les-avis-de-recrutement-mitre-assistant-classe-b-au-titre-de-l-annee-2019-deuxieme-session/)
