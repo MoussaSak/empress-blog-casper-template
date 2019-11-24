@@ -1,5 +1,5 @@
 ---
-title: Avis de recrutement centre universitaire de Tissemsilt -deuxième session-.
+title: Avis de recrutement Centre Universitaire de Tissemsilt -deuxième session-.
 image: /images/centre_universitaire_tissemsilt.jpg
 
 imageMeta:
