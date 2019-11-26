@@ -33,6 +33,7 @@ Voici la liste des avis de recrutement **Deuxième Session** au titre de l'anné
 + [Centre Universitaire de Barika](/avis-de-recrutement-centre-universitaire-barika-deuxieme-session/)
 + [Université d'Oran 2](/avis-de-recrutement-universite-oran-2-deuxieme-session/)
 + [Ecole Normale Supérieure Sétif](/avis-de-recrutement-ecole-normale-superieure-setif-deuxieme-session/)
-
++ [Ecole Normale Supérieure Bou sâada -Msila](/avis-de-recrutement-ecole-normale-superieure-bou-saada-deuxieme-session/)
++ 
 
 Vous pouvez aussi consulter les critères de sélection via ce lien: [Les critères de selection au concours sur titre pour accès au grade de maître assistant classe B](/Les_criteres_de_selection_au_concours_sur_titre_pour_acces_au_grade_de_maître_assistant_classe_B/)
