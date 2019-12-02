@@ -37,6 +37,9 @@ Voici la liste des avis de recrutement **Deuxième Session** au titre de l'anné
 + [Centre Universitaire de Tipaza](/avis-de-recrutement-centre-universitaire-de-tipaza-deuxieme-session/)
 + [Université de Sétif 2](/avis-de-recrutement-universite-de-setif-2-deuxieme-session/)
 + [Université de Bouira](/avis-de-recrutement-universite-de-bouira-deuxieme-session/)
++ [Ecole Nationale Supérieure de Biothechnologie Constantine](/avis-de-recrutement-ensb-constantine-deuxieme-session/)
++ [Centre Universitaire de Tamanrasset](/avis-de-recrutement-centre-universitaire-de-tamanrasset-deuxieme-session/)
++ [Université de Tizi Ouzou](/avis-de-recrutement-universite-de-tizi-ouzou-deuxieme-session/)
 
 
 Vous pouvez aussi consulter les critères de sélection via ce lien: [Les critères de selection au concours sur titre pour accès au grade de maître assistant classe B](/Les_criteres_de_selection_au_concours_sur_titre_pour_acces_au_grade_de_maître_assistant_classe_B/)
