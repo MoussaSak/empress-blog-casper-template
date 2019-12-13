@@ -13,7 +13,7 @@ tags:
   - annonce
   - news
 ---
-Mise à jour le: **09 Décembre 2019**
+Mise à jour le: **13 Décembre 2019**
 
 Voici la liste des avis de recrutement **Deuxième Session** au titre de l'année budgétaire 2019 pour l'accès au grade de maître assistant classe B, annoncés jusqu'à maintenant par les différents universités et écoles à travers le pays:
 
@@ -44,6 +44,9 @@ Voici la liste des avis de recrutement **Deuxième Session** au titre de l'anné
 + [Université de Médéa](/avis-de-recrutement-universite-medea-deuxieme-session/)
 + [Centre Universitaire de Maghnia](/avis-de-recrutement-centre-universitaire-de-maghnia-deuxieme-session/)
 + [Université de Tiaret](/avis-de-recrutement-universite-de-tiaret-deuxieme-session/)
++ [Université de Chlef](/avis-de-recrutement-universite-de-chlef-deuxieme-session/)
++ [Université de Tlemcen](/avis-de-recrutement-universite-de-tlemcen-deuxieme-session/)
++ [Université de Constantine 2 ](/avis-de-recrutement-universite-constantine-2-deuxieme-session/)
 
 
 Vous pouvez aussi consulter les critères de sélection via ce lien: [Les critères de selection au concours sur titre pour accès au grade de maître assistant classe B](/Les_criteres_de_selection_au_concours_sur_titre_pour_acces_au_grade_de_maître_assistant_classe_B/)
