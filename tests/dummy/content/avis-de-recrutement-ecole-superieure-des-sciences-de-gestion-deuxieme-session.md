@@ -1,6 +1,6 @@
 ---
 title: Avis de recrutement École Supérieure Des Sciences De Gestion ESSG -deuxième session-
-image: /images/essg-annaba.jpg.jpg
+image: /images/essg-annaba.jpg
 
 imageMeta:
   attribution: By admin
