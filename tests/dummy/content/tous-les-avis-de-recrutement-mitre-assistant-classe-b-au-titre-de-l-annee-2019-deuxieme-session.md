@@ -13,7 +13,7 @@ tags:
   - annonce
   - news
 ---
-Mise à jour le: **15 Décembre 2019**
+Mise à jour le: **18 Décembre 2019**
 
 Voici la liste des avis de recrutement **Deuxième Session** au titre de l'année budgétaire 2019 pour l'accès au grade de maître assistant classe B, annoncés jusqu'à maintenant par les différents universités et écoles à travers le pays:
 
@@ -52,6 +52,7 @@ Voici la liste des avis de recrutement **Deuxième Session** au titre de l'anné
 + [Centre Universitaire de Mila](/avis-de-recrutement-centre-universitaire-mila-deuxieme-session/)
 + [École Supérieure Des Sciences De Gestion-Annaba](/avis-de-recrutement-ecole-superieure-des-sciences-de-gestion-deuxieme-session/)
 + [Université de Khemis Miliana](/avis-de-recrutement-universite-khmis-meliana-deuxieme-session/)
++ [Centre universitaire d"Aflou](/avis-de-recrutement-centre-universitaire-d-aflou-deuxieme-session/)
 
 
 Vous pouvez aussi consulter les critères de sélection via ce lien: [Les critères de selection au concours sur titre pour accès au grade de maître assistant classe B](/Les_criteres_de_selection_au_concours_sur_titre_pour_acces_au_grade_de_maître_assistant_classe_B/)
