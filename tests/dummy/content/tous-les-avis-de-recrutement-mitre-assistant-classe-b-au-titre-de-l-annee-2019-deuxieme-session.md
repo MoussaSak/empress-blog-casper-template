@@ -56,5 +56,6 @@ Voici la liste des avis de recrutement **Deuxième Session** au titre de l'anné
 + [Université de Bordj Bou-Arréridj](/avis-de-recrutement-universite-bordj-bou-arreridj-deuxieme-session/)
 + [Ecole des hautes études commerciales](/avis-de-recrutement-eole-des-hautes-etudes-commerciales-deuxieme-session/)
 + [Université de Biskra](/avis-de-recrutement-universite-de-biskra-deuxieme-session/)
++ [Centre Universitaire EL-Bayadh](/avis-de-recrutement-centre-universitaire-el-bayadh-deuxieme-session/)
 
 Vous pouvez aussi consulter les critères de sélection via ce lien: [Les critères de selection au concours sur titre pour accès au grade de maître assistant classe B](/Les_criteres_de_selection_au_concours_sur_titre_pour_acces_au_grade_de_maître_assistant_classe_B/)
