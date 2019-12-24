@@ -1,6 +1,6 @@
 ---
 title: Avis de recrutement Centre de Recherche en Economie Appliquée pour le Développement-CREAD -deuxième session-
-image: /images/ens-constantine.jpg
+image: /images/cread-alger.jpg
 
 imageMeta:
   attribution: By admin
