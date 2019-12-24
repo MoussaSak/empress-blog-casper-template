@@ -13,7 +13,7 @@ tags:
   - annonce
   - news
 ---
-Mise à jour le: **19 Décembre 2019**
+Mise à jour le: **24 Décembre 2019**
 
 Voici la liste des avis de recrutement **Deuxième Session** au titre de l'année budgétaire 2019 pour l'accès au grade de maître assistant classe B, annoncés jusqu'à maintenant par les différents universités et écoles à travers le pays:
 
@@ -57,5 +57,9 @@ Voici la liste des avis de recrutement **Deuxième Session** au titre de l'anné
 + [Ecole des hautes études commerciales](/avis-de-recrutement-eole-des-hautes-etudes-commerciales-deuxieme-session/)
 + [Université de Biskra](/avis-de-recrutement-universite-de-biskra-deuxieme-session/)
 + [Centre Universitaire EL-Bayadh](/avis-de-recrutement-centre-universitaire-el-bayadh-deuxieme-session/)
++ [Université de Kasdi Merbah Ouargla](/avis-de-recrutement-universite-kasdi-merbah-ouargla-deuxieme-session/)
++ [Ecole Normale Supérieure Assia Djebar de Constantine](/avis-de-recrutement-ecole-normale-superieure-constantine-deuxieme-deuxieme-session/)
++ [Centre de Recherche en Economie Appliquée pour le Développement-CREAD](/avis-de-recrutement-centre-de-recherche-economie-appliquee-pour-le-developpement-deuxieme-session/)
++ [Université Blida 2](/avis-de-recrutement-universite-blida-2-deuxieme-session/)
 
 Vous pouvez aussi consulter les critères de sélection via ce lien: [Les critères de selection au concours sur titre pour accès au grade de maître assistant classe B](/Les_criteres_de_selection_au_concours_sur_titre_pour_acces_au_grade_de_maître_assistant_classe_B/)
