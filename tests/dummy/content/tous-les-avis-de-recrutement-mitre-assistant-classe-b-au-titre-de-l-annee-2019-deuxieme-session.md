@@ -64,5 +64,6 @@ Voici la liste des avis de recrutement **Deuxième Session** au titre de l'anné
 + [Université Batna 2](/avis-de-recrutement-universite-de-batna-2-deuxieme-session/)
 + [Université de Boumerdès](/avis-de-recrutement-universite-de-boumerdes-deuxieme-session/)
 + [Centre de Recherche en Biotechnologie Constantine](/avis-de-recrutement-centre-de-rechereche-en-biotechnologie-crbt-deuxieme-session/)
++ [Centre Universitaire de Relizane](/avis-de-recrutement-centre-universitaire-relizane-deuxieme-session/)
 
 Vous pouvez aussi consulter les critères de sélection via ce lien: [Les critères de selection au concours sur titre pour accès au grade de maître assistant classe B](/Les_criteres_de_selection_au_concours_sur_titre_pour_acces_au_grade_de_maître_assistant_classe_B/)
