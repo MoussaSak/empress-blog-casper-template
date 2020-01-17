@@ -8,7 +8,7 @@ imageMeta:
 featured: true
 authors:
   - admin
-date: Tue Fri 17 2020 16:04:59 GMT+0100 (IST)
+date: Fri Jan 17 2020 16:05:59 GMT+0100 (IST)
 tags:
   - news
 ---
