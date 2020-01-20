@@ -26,4 +26,6 @@ Nous avons le plaisir de mettre à votre disposition la liste des revues scienti
 
 Il est à signaler que les listes (**Edition 2019**) rentre en vigueur pour les articles soumis après le **15 Mai 2019** pour les journaux de la catégorie A et B et le **26 aôut 2019** pour les journaux de la catégorie C.
 
+**Lire aussi**: [Recensement des Revues Scientifiques Nationales édition 2020](/recensement-des-revues-scientifiques-nationales-dgrsdt-edition-2020/)
+
 ![Image description](/images/scientific_journal.jpg)
