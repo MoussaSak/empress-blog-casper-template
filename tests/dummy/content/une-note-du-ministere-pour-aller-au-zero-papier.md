@@ -22,3 +22,5 @@ D'autre part, il est demandé de prendre en compte les recommandations suivantes
 3. N'imprimer ou ne photocopier un document qu'en dernier ressort. Les contributions de diverses parties pour la rédaction d'un docurnent peuvent être réalisées dans le cadre d'un partage à travers le réseau (GED, Mail),
 4. Supprimer l'achat des journaux accessibles en ligne. Le site « Bulletin de presse » du CERIST : [http://presse.cerist.dz](http://presse.cerist.dz), peut étre utilisé en substitution.
 5. Éteindre systématiquement les équipements informatiques après les heures de travail (réduction de l'empreinte et de la facture énergétiques),
+
+![la note 56 MESRS numérisation](/images/note-56-utilisation-des-outils-numeriques.jpg)
