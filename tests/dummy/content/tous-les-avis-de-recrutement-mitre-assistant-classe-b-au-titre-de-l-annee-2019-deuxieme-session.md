@@ -13,7 +13,7 @@ tags:
   - annonce
   - news
 ---
-Mise à jour le: **06 Janvier 2020**
+Mise à jour le: **21 Janvier 2020**
 
 Voici la liste des avis de recrutement **Deuxième Session** au titre de l'année budgétaire 2019 pour l'accès au grade de maître assistant classe B, annoncés jusqu'à maintenant par les différents universités et écoles à travers le pays:
 
@@ -66,5 +66,6 @@ Voici la liste des avis de recrutement **Deuxième Session** au titre de l'anné
 + [Centre de Recherche en Biotechnologie Constantine](/avis-de-recrutement-centre-de-rechereche-en-biotechnologie-crbt-deuxieme-session/)
 + [Centre Universitaire de Relizane](/avis-de-recrutement-centre-universitaire-relizane-deuxieme-session/)
 + [Université de Batna 1](/avis-de-recrutement-universite-de-batna-1-deuxieme-session/)
++[Université de Jijel](/avis-de-recrutement-univerite-de-jijel-deuxieme-session/)
 
 Vous pouvez aussi consulter les critères de sélection via ce lien: [Les critères de selection au concours sur titre pour accès au grade de maître assistant classe B](/Les_criteres_de_selection_au_concours_sur_titre_pour_acces_au_grade_de_maître_assistant_classe_B/)
