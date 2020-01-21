@@ -21,3 +21,5 @@ Le « Bloomberg Innovation Index » prend en compte plus de 200 économies des p
 L’Algérie se classe notamment mieux que l’Afrique du Sud (50e), la Tunisie (52e), l’Arabie saoudite (53e), l’Inde (54e), le Qatar (55e) ou encore l’Egypte (58e). Premier pays africain cité, l’Algérie est également deuxième dans la région MENA, devancée uniquement par les Emirats arabes unis (44e).
 
 Dans le haut du classement, l’Allemagne occupe la première place du classement, suivie respectivement par la Corée du Sud, Singapour, la Suisse, la Suède et Israël. Les Etats-Unis sont à la 9e place, devant la France (10e) et le Japon (12e). La Chine occupe quant à elle la 15e place, et la Russie est 26e.
+
+Source: **TSA**
