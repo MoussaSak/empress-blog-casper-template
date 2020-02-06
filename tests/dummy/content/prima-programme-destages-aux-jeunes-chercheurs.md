@@ -17,4 +17,4 @@ tags:
 Toutes les informations utiles sont disponibles sur le lien suivant : [http://prima-ined.orp./vacancy-note-prima-internship-prozram-2020-2021/](http://prima-ined.orp./vacancy-note-prima-internship-prozram-2020-2021/)
 
 
-[Prima Stages jeunes chercheurs](/images/prima-2020.jpg)
+![Prima Stages jeunes chercheurs](/images/prima-2020.jpg)

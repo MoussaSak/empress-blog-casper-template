@@ -1,5 +1,5 @@
 ---
-title: Prima, Programme de Stages aux jeunes chercheurs
+title: Prgramme Formation au Japon 2020 aux jeunes chercheurs
 image: /images/bourses-universitaires.jpg
 
 imageMeta:
@@ -15,4 +15,4 @@ tags:
 le programme de formation au Japon émanant de l'Agence Japonaise de la Coopération Internationale (JICA) « E-JUST TICAD7 African Scholarship for STI » est destiné aux enseignants chercheurs ainsi qu'aux étudiants de premier cycle, qui ont le potentiel de devenir de futurs chercheurs ou enseignants dans les universités ou institutions de recherche. Les candidats intéressés par le dit programme sont invités à postuler directement auprès de l'E-JUST ( Egypt-Japan University of Science and Technology). La période de soumission des dossiers de candidature est définie du **16 janvier au 15 février 2020**
 
 
-[formation au japon 2020 jeunes chercheurs](/images/formation-au-japon-2020.jpg)
+![formation au japon 2020 jeunes chercheurs](/images/formation-au-japon-2020.jpg)
