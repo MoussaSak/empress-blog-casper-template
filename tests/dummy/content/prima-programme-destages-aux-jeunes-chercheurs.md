@@ -14,7 +14,7 @@ tags:
 ---
  la Fondation PRIMA vient de publier sur son site officiel, un appel à candidatures dans le cadre de son programme de stages dédié aux jeunes chercheurs de la rive sud de la méditerranée pour l'année 2020/2021 Le dernier délai de soumission des candidatures est fixé au **03 mars 2020**.
 
-Toutes les informations utiles sont disponibles sur le lien suivant : [http://prima-ined.orp./vacancy-note-prima-internship-prozram-2020-2021/](http://prima-ined.orp./vacancy-note-prima-internship-prozram-2020-2021/)
+Toutes les informations utiles sont disponibles sur le lien suivant : [http://prima-med.org./vacancy-note-prima-internship-program-2020-2021/](http://prima-med.org./vacancy-note-prima-internship-program-2020-2021/)
 
 
 ![Prima Stages jeunes chercheurs](/images/prima-2020.jpg)
