@@ -8,7 +8,7 @@ imageMeta:
 featured: true
 authors:
   - admin
-date: Mon Jan 20 2020 11:14:00 GMT+0100 (IST)
+date: Tue Feb 10 2020 15:14:00 GMT+0100 (IST)
 tags:
   - news
 ---
@@ -16,4 +16,4 @@ tags:
 
 Suite au lancement de l’enquête nationale au niveau des établissements d’enseignement supérieur et de recherche pour la mise en place du fichier national des revues scientifiques pour **l'édition 2020**:
 
-+ [Liste des Revues Scientifiques Nationales](https://drive.google.com/open?id=13v5K5skS6xQVoph3ccQK6Xc7AZ4M2kcF) **(mise à jour de la liste: 13 Janvier 2020)**
++ [Liste des Revues Scientifiques Nationales](https://drive.google.com/open?id=1mf4M9-Ai2qzOZy_kL08miN3F4M-EZA7V) **(mise à jour de la liste: 06 février 2020)**
