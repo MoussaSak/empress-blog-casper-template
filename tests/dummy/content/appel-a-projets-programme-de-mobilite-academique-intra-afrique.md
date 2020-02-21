@@ -1,5 +1,5 @@
 ---
-title: 4ème Appel à Projets: Programme de Mobilité Académique Intra-Afrique
+title: 4ème Appel à Projets, Programme de Mobilité Académique Intra-Afrique
 image: /images/bourses-universitaires.jpg
 
 imageMeta:
