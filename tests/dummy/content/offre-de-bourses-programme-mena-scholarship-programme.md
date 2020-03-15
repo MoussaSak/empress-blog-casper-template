@@ -7,8 +7,8 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
+  - admin
 date: Sun Mar 15 2020 17:20:00 GMT+0100 (IST)
-- admin
 tags:
   - bourse
 ---
