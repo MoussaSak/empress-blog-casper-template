@@ -1,3 +1,17 @@
+3.3.0 / 2020-08-13
+==================
+
+  * use empress-blog-ghost-helpers instead of shipping custom helpers #33 from @nickschot
+
+3.2.1 / 2020-07-13
+==================
+
+  * start using empress-blueprint-helpers for config editing #31 from @mansona
+
+3.2.0 / 2020-06-04
+==================
+
+  * Update dependencies #26 #30 from @mansona
 
 3.1.0 / 2019-05-07
 ==================
